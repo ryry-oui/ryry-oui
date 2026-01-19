@@ -23,7 +23,7 @@ I am a passionate developer and researcher focused on building intelligent, data
 ---
 
 ### 📊 My GitHub Stats
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryry-oui&show_icons=true&theme=transparent)
 
 ---
 
