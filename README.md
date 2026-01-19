@@ -25,11 +25,7 @@ I am a passionate developer and researcher focused on building intelligent, data
 ### 📊 My GitHub Stats
 ![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryry-oui&show_icons=true&theme=transparent)
 
----
 
-### 📫 How to reach me
-- **LinkedIn:** [Your Profile Name](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com]
 <!--
 **ryry-oui/ryry-oui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
