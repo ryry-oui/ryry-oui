@@ -6,7 +6,7 @@ I am a passionate developer and researcher focused on building intelligent, data
 ---
 
 ### 🔍 About Me
-- 🚀 Currently working as an **Apprentice Engineer**.
+- 🚀 Currently working as an **Apprentice Database Engineer in the space industry**.
 - 🔬 Deeply interested in **Research** and innovation.
 - 🧠 Specializing in **Artificial Intelligence** (Neural Networks), **Data Analysis**, and **Cybersecurity**.
 
